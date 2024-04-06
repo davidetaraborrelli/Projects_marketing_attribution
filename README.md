@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyze the effectiveness of various marketing campaigns run by CoolTShirts, an innovative apparel shop. Through detailed data analysis, the objective is to uncover insights into campaign performance and guide strategic decisions on budget reallocation.
+This project is based on a fictional business, using real data. This project aims to analyze the effectiveness of various marketing campaigns run by CoolTShirts, an innovative apparel shop. Through detailed data analysis, the objective is to uncover insights into campaign performance and guide strategic decisions on budget reallocation.
 
 ## Key Questions Addressed
 
